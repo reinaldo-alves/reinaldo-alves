@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou Reinaldo Alves <br /> Seja bem vindo ao meu perfil no GitHub</h1>
+<h1 align="center">Olá! 👋 Eu sou Reinaldo Alves <br /> Seja bem vindo ao meu perfil no GitHub 👨🏻‍💻</h1>
 
 <div align= "center">
   <a href="https://github.com/reinaldo-alves">
